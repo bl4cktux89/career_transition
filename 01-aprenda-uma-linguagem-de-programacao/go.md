@@ -115,5 +115,5 @@ print
 
 ### deslocamento de bits
 
-- << desloca os bits à esquerda
-- >> desloca os bits à direita
+- '<<' desloca os bits à esquerda
+- '>>' desloca os bits à direita
