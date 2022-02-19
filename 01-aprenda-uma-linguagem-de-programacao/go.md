@@ -3,7 +3,7 @@
 package main | function main
 
 <aside>
-:bulb: *aqui você começa, aqui você termina*
+*:bulb: aqui você começa, aqui você termina*
 
 </aside>
 
