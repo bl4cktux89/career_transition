@@ -2,10 +2,9 @@
 
 package main | function main
 
-<aside>
 :bulb:
+<aside>
 *aqui você começa, aqui você termina*
-
 </aside>
 
 ---
