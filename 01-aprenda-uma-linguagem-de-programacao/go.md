@@ -117,3 +117,33 @@ print
 
 - '<<' desloca os bits à esquerda
 - '>>' desloca os bits à direita
+
+---
+
+### fluxo de controle
+
+é a forma como o computador lê e executa um programa:
+
+- computadores geralmente lêem em sequência - de cima para baixo
+- além do fluxo sequencial existem outras duas declarações que podem afetar a maneira do computador ler código:
+    - fluxo de controle de repetição - loop | iterativo
+    - fluxo de controle condicional - seleção
+
+> existem 3 tipos de fluxo de controle: sequencial, repetição e condicional
+> 
+
+### loop
+
+estágios do for:
+
+- inicialização
+- condição
+- pós
+
+break - quebra o loop
+
+continue - pula a iteração atual
+
+### if
+
+só executa se for true
