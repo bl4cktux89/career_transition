@@ -1,5 +1,8 @@
 # anotações
 
+base do estudo em Go:
+https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
+
 package main | function main
 :bulb:
 > *aqui você começa, aqui você termina*
