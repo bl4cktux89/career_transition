@@ -1,5 +1,3 @@
-# devops roadmap
-
 <p align="center">
   <img src=".src/devops.png" alt="banner" />
 </p>
@@ -18,13 +16,14 @@
 
 <a id="sobre"></a>
 
-## :bookmark: Sobre
+## :bookmark: sobre
 
-<strong>DevOps Roadmap</strong> é um repositório onde vou inserir a minha evolução e anotações que podem ajudar pessoas que venham a trilhar esse caminho no futuro.
+base dos estudos: <strong><a href="https://roadmap.sh/devops">DevOps Roadmap</a></strong> 
+este é um repositório onde vou inserir a minha evolução e anotações que podem ajudar pessoas que venham a trilhar esse caminho no futuro.
 
 <a id="tecnologias-utilizadas"></a>
 
-## :rocket: Tecnologias Utilizadas
+## :rocket: tecnologias utilizadas
 
 O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o momento:
 
@@ -34,7 +33,7 @@ O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 
 <a id="como-contribuir"></a>
 
-## :recycle: Como contribuir
+## :recycle: como contribuir
 
 - Faça um Fork desse repositório,
 - Crie uma branch com a sua feature: `git checkout -b my-feature`
