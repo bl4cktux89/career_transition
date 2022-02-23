@@ -5,9 +5,9 @@ import (
 )
 
 func main() {
-	esporteFavorito := "futebol"
-	switch {
-	case esporteFavorito == "futebol":
+	esporteFavorito := "volei"
+	switch esporteFavorito {
+	case "futebol":
 		fmt.Println("acertou")
 	default:
 		fmt.Println("errou")
