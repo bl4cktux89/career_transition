@@ -18,7 +18,7 @@
 
 ## :bookmark: sobre
 
-base dos estudos: <strong><a href="https://roadmap.sh/devops">DevOps Roadmap</a></strong> 
+base dos estudos: <strong><a href="https://roadmap.sh/devops">DevOps Roadmap</a></strong> <br/> 
 este é um repositório onde vou inserir a minha evolução e anotações que podem ajudar pessoas que venham a trilhar esse caminho no futuro.
 
 <a id="tecnologias-utilizadas"></a>
