@@ -23,7 +23,7 @@ este é um repositório onde vou inserir a minha evolução e anotações que po
 
 <a id="tecnologias-utilizadas"></a>
 
-## :rocket: tecnologias utilizadas
+## :memo: tecnologias utilizadas
 
 O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o momento:
 
@@ -33,7 +33,7 @@ O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 
 <a id="como-contribuir"></a>
 
-## :recycle: como contribuir
+## :heavy_check_mark: como contribuir
 
 - Faça um Fork desse repositório,
 - Crie uma branch com a sua feature: `git checkout -b my-feature`
