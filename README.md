@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h1><b>Transição de Carreira/b></h1>
+  <h1><b>Transição de Carreira</b></h1>
 </p>
 
 <br />
@@ -18,7 +18,7 @@
 
 ## :bookmark: sobre
 
-base dos estudos: 
+base dos estudos: <br/>
 <strong><a href="https://roadmap.sh/golang">Go Developer</a></strong> <br/>
 <strong><a href="https://roadmap.sh/backend">Backend Developer</a></strong> <br/>
 <strong><a href="https://roadmap.sh/devops">DevOps Roadmap</a></strong> <br/> 
