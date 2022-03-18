@@ -11,4 +11,6 @@ nav:
   - Passo-7: 07-mais-sobre-bancos-de-dados.md
   - Passo-8: 08-bancos-de-dados-nao-relacionais.md
   - About: about.md
-theme: readthedocs
+theme:
+    name: mkdocs
+    nav_style: dark
