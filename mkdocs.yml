@@ -1,0 +1,6 @@
+site_name: Transição de Carreira
+site_url: https://bl4cktux89.github.io/career_transition/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs

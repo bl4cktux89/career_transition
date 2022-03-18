@@ -3,16 +3,21 @@
 </p>
 
 <p align="center">
-  <h1><b>Transição de Carreira</b></h1>
+  <h1><b>Transição de Carreira para DevOps/SRE</b></h1>
 </p>
 
 <br />
 
 ## conteúdo
 
+- [page](#page)
 - [sobre](#sobre)
 - [tecnologias](#tecnologias)
 - [como contibuir](#como-contribuir)
+
+<a id="page"></a>
+
+Clique <strong><a href="https://bl4cktux89.github.io/career_transition/">AQUI</a></strong> para acessar a página do projeto! <br/>
 
 <a id="sobre"></a>
 
@@ -23,6 +28,7 @@ base dos estudos: <br/>
 <strong><a href="https://roadmap.sh/backend">Backend Developer</a></strong> <br/>
 <strong><a href="https://roadmap.sh/devops">DevOps Roadmap</a></strong> <br/> 
 este é um repositório onde vou inserir a minha evolução e anotações que podem ajudar pessoas que venham a trilhar esse caminho no futuro.
+
 
 <a id="tecnologias-utilizadas"></a>
 

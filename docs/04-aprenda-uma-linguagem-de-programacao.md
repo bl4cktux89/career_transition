@@ -3,6 +3,86 @@
 base do estudo em Go:
 https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
+	1. aprenda o básico
+		1. sintaxe básica
+		2. variáveis e declarações
+		3. tipos de dados
+		4. bool
+		5. byte
+		6. rune
+		7. complex64/128
+		8. int, int8/16/32/64
+		9. uint, uint8/16/32/64
+		10. float32, float64
+		11. uintptr
+		12. for loop
+		13. range
+		14. if, switch statements
+		15. errors, panic, recover
+		16. conditionals
+		17. functions, multiple/named returns
+		18. packages, imports e exports
+		19. type casting
+		20. type inference
+		21. arrays
+		22. slices
+		23. maps
+		24. make()
+		25. structs
+	2. going deeper
+		1. go modules
+		2. types, type assertions, switches
+		3. interfaces
+		4. context
+		5. goroutines
+		6. channels
+		7. buffer
+		8. select
+		9. mutex
+		10. marshaling & unmarshaling JSON
+	
+	3. building CLIs
+		1. cobra
+
+	4. ORMs
+		1. GORM
+
+	5. web frameworks
+		1. beego
+		2. gin
+		3. revel
+		4. echo
+		5. gorilla
+		6. buffalo
+	
+	6. logging
+		1. logrus
+		2. zap
+	
+	7. real time communitation
+		1. melody
+		2. centrifugo
+	
+	8. API clients
+		1. REST
+			1. heimdall
+			2. GRequests
+		2. graphQL
+			1. graphql-go
+			2. gqlgen
+
+	8. testando suas aplicações
+	9. ferramentas para microsserviços
+		1. watermill
+		2. rpcx
+		3. go-kit
+		4. micro
+		5. go-zero
+		6. protocol buffers
+		7. gRPC-Go
+		8. gRPC-gateway
+		9. twirp
+
 package main | function main
 :bulb:
 > *aqui você começa, aqui você termina*
