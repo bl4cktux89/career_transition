@@ -2,5 +2,13 @@ site_name: Transição de Carreira
 site_url: https://bl4cktux89.github.io/career_transition/
 nav:
   - Home: index.md
+  - Passo-1: 01-internet.md
+  - Passo-2: 02-conhecimento-basico-de-frontend.md
+  - Passo-3: 03-conceitos-de-sistemas-operacionais.md
+  - Passo-4: 04-aprenda-uma-linguagem-de-programacao.md
+  - Passo-5: 05-sistemas-de-controle-de-versao.md
+  - Passo-6: 06-bancos-de-dados-relacionais.md
+  - Passo-7: 07-mais-sobre-bancos-de-dados.md
+  - Passo-8: 08-bancos-de-dados-nao-relacionais.md
   - About: about.md
 theme: readthedocs
