@@ -1,88 +1,94 @@
-# anotações
+# quarto passo
 
-base do estudo em Go:
-https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
+Documentação da Linguagem: <a href="https://go.dev/doc/">GO</a></br>
 
-	1. aprenda o básico
-		1. sintaxe básica
-		2. variáveis e declarações
-		3. tipos de dados
-		4. bool
-		5. byte
-		6. rune
-		7. complex64/128
-		8. int, int8/16/32/64
-		9. uint, uint8/16/32/64
-		10. float32, float64
-		11. uintptr
-		12. for loop
-		13. range
-		14. if, switch statements
-		15. errors, panic, recover
-		16. conditionals
-		17. functions, multiple/named returns
-		18. packages, imports e exports
-		19. type casting
-		20. type inference
-		21. arrays
-		22. slices
-		23. maps
-		24. make()
-		25. structs
-	2. going deeper
-		1. go modules
-		2. types, type assertions, switches
-		3. interfaces
-		4. context
-		5. goroutines
-		6. channels
-		7. buffer
-		8. select
-		9. mutex
-		10. marshaling & unmarshaling JSON
-	
-	3. building CLIs
-		1. cobra
+playlist da Ellen Korbes: <a href="https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg">Aprenda Go</a></br>
 
-	4. ORMs
-		1. GORM
-
-	5. web frameworks
-		1. beego
-		2. gin
-		3. revel
-		4. echo
-		5. gorilla
-		6. buffalo
-	
-	6. logging
-		1. logrus
-		2. zap
-	
-	7. real time communitation
-		1. melody
-		2. centrifugo
-	
-	8. API clients
-		1. REST
-			1. heimdall
-			2. GRequests
-		2. graphQL
-			1. graphql-go
-			2. gqlgen
-
-	8. testando suas aplicações
-	9. ferramentas para microsserviços
-		1. watermill
-		2. rpcx
-		3. go-kit
-		4. micro
-		5. go-zero
-		6. protocol buffers
-		7. gRPC-Go
-		8. gRPC-gateway
-		9. twirp
-
+playlist do Tiago Temporin: <a href="https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF">Aprenda Golang</a></br>
+ 
+---
+## aprenda o básico
+### sintaxe básica
+### variáveis e declarações
+### tipos de dados
+### bool
+### byte
+### rune
+### complex64/128
+### int, int8/16/32/64
+### uint, uint8/16/32/64
+### float32, float64
+### uintptr
+### for loop
+### range
+### if, switch statements
+### errors, panic, recover
+### conditionals
+### functions, multiple/named returns
+### packages, imports e exports
+### type casting
+### type inference
+### arrays
+### slices
+### maps
+### make()
+### structs
+---
+## going deeper
+### go modules
+### types, type assertions, switches
+### interfaces
+### context
+### goroutines
+### channels
+### buffer
+### select
+### mutex
+### marshaling & unmarshaling JSON
+---
+## building CLIs
+### cobra
+---
+## ORMs
+### GORM
+---
+## web frameworks
+### beego
+### gin
+### revel
+### echo
+### gorilla
+### buffalo
+---
+## logging
+### logrus
+### zap
+---
+## real time communitation
+### melody
+### centrifugo
+---
+## API clients
+### REST
+#### heimdall
+#### GRequests
+### graphQL
+#### graphql-go
+#### gqlgen
+---
+## testando suas aplicações
+---
+## ferramentas para microsserviços
+### watermill
+### rpcx
+### go-kit
+### micro
+### go-zero
+### protocol buffers
+### gRPC-Go
+### gRPC-gateway
+### twirp
+---
 package main | function main
 :bulb:
 > *aqui você começa, aqui você termina*
@@ -90,13 +96,13 @@ package main | function main
 
 ---
 
-### usando funções
+# usando funções
 
 package.identificator
 
 ---
 
-### scope
+# scope
 
 package level
 
@@ -104,7 +110,7 @@ function level "code block"
 
 ---
 
-### tipos
+# tipos
 
 tipos são estáticos
 
@@ -126,7 +132,7 @@ usar sempre que possível o operador curto de declaração (marmota) ':='
 
 ---
 
-### package fmt
+# package fmt
 
 strings - interpreted = "" - aspas | raw = `` - crases
 
@@ -153,7 +159,7 @@ print
 
 ---
 
-### tipo boolean
+# tipo boolean
 
 - é um tipo binário que só pode conter dois valores:
     - true
@@ -166,7 +172,7 @@ print
 
 ---
 
-### tipos numéricos
+# tipos numéricos
 
 - INT - integer | inteiros
 - FLOAT - floating point | frações
@@ -179,13 +185,13 @@ print
 
 ---
 
-### caracteres
+# caracteres
 
 - caracteres são feitos de runes - conjunto de bits - apelido para INT32
 
 ---
 
-### constantes
+# constantes
 
 - valores imutáveis
 - podem ser tipadas ou não
@@ -196,14 +202,14 @@ print
 
 ---
 
-### deslocamento de bits
+# deslocamento de bits
 
 - '<<' desloca os bits à esquerda
 - '>>' desloca os bits à direita
 
 ---
 
-### fluxo de controle
+# fluxo de controle
 
 é a forma como o computador lê e executa um programa:
 
@@ -215,7 +221,7 @@ print
 > existem 3 tipos de fluxo de controle: sequencial, repetição e condicional
 > 
 
-### loop
+# loop
 
 estágios do for:
 
@@ -227,6 +233,6 @@ break - quebra o loop
 
 continue - pula a iteração atual
 
-### if
+# if
 
 só executa se for true

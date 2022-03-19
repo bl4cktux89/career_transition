@@ -1,3 +1,7 @@
-	1. html
-	2. css
-	3. javascript
+# segundo passo
+---
+## html
+---
+## css
+---
+## javascript para sobrevivência

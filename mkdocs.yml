@@ -1,16 +1,34 @@
 site_name: Transição de Carreira
 site_url: https://bl4cktux89.github.io/career_transition/
 nav:
-  - Home: index.md
-  - Passo-1: 01-internet.md
-  - Passo-2: 02-conhecimento-basico-de-frontend.md
-  - Passo-3: 03-conceitos-de-sistemas-operacionais.md
-  - Passo-4: 04-aprenda-uma-linguagem-de-programacao.md
-  - Passo-5: 05-sistemas-de-controle-de-versao.md
-  - Passo-6: 06-bancos-de-dados-relacionais.md
-  - Passo-7: 07-mais-sobre-bancos-de-dados.md
-  - Passo-8: 08-bancos-de-dados-nao-relacionais.md
-  - About: about.md
-theme:
-    name: mkdocs
-    nav_style: dark
+  - home: index.md
+  - como funciona a internet: 01-internet.md
+  - conhecimento básico de frontend: 02-conhecimento-basico-de-frontend.md
+  - conceitos de sistemas operacionais: 03-conceitos-de-sistemas-operacionais.md
+  - aprenda uma linguagem de programação: 04-aprenda-uma-linguagem-de-programacao.md
+  - sistemas de controle de versão: 05-sistemas-de-controle-de-versao.md
+  - bancos de dados relacionais: 06-bancos-de-dados-relacionais.md
+  - + sobre bancos de dados: 07-mais-sobre-bancos-de-dados.md
+  - bancos de dados não relacionais: 08-bancos-de-dados-nao-relacionais.md
+  - APIs: 09-aprenda-sobre-apis.md
+  - caching: 10-caching.md
+  - redes, segurança e protocolos: 11-redes-seguranca-e-protocolos.md
+  - testes: 12-testes.md
+  - conteinerização e virtualização: 13-conteinerizacao-e-virtualizacao.md 
+  - aprenda infraestrutura como código: 14-aprenda-iac.md
+  - CI/CD: 15-ci-cd.md
+  - aprenda como monitorar software e infraestrutura: 16-aprenda-monitorar-infra-e-codigo.md
+  - cloud providers: 17-cloud-providers.md
+  - design e princípios de desenvolvimento: 18-design-e-principios-de-desenvolvimento.md
+  - padrões de arquiteturas: 19-padroes-de-arquiteturas.md
+  - padrões de design na nuvem: 20-padroes-de-design-na-nuvem.md
+  - motores de busca: 21-motores-de-busca.md
+  - message brokers: 22-message-brokers.md
+  - graphQL: 23-graphQL.md
+  - graph databases: 24-graph-dbs.md
+  - websockets: 25-websockets.md
+  - projetando para escalar: 26-projetando-para-escalar.md
+  - sobre: about.md
+theme: 
+  name: readthedocs
+
