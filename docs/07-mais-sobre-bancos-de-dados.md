@@ -1,6 +1,21 @@
-	1. ORMs
-	2. ACID
-	3. transactions
-	4. N+1 problem
-	5. database normalization
-	6. indexes and how they work
+# 7
+---
+## ORMs
+---
+## ACID
+---
+## transações
+---
+## problema do N+1
+---
+## normalização da base de dados
+---
+## índices e como eles funcionam
+<!---
+---
+## replicação de dados
+---
+## "sharding strategies"
+---
+## CAP theorem
+--->

@@ -1,4 +1,11 @@
-# terceiro passo
+# 3
+---
+## como sistemas operacionais funcionam?
+---
+## sistemas operacionais
+### linux
+#### ubuntu
+#### rhel
 ---
 ## gerenciamento de processos
 ---
@@ -13,6 +20,7 @@
 ## sockets
 ---
 ## básico de POSIX
+### stdin, stdout, stderr, pipes
 ---
 ## conceitos de redes
 ---
@@ -25,3 +33,15 @@
 ## sistemas de arquivos
 ---
 ## comandos básicos no terminal
+### grep
+### awk
+### sed
+### lsof
+### curl
+### wget
+### tail
+### head
+### less
+### find
+### ssh
+### kill

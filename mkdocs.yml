@@ -14,7 +14,7 @@ nav:
   - caching: 10-caching.md
   - redes, segurança e protocolos: 11-redes-seguranca-e-protocolos.md
   - testes: 12-testes.md
-  - conteinerização e virtualização: 13-conteinerizacao-e-virtualizacao.md 
+  - infraestrutura: 13-infraestrutura.md 
   - aprenda infraestrutura como código: 14-aprenda-iac.md
   - CI/CD: 15-ci-cd.md
   - aprenda como monitorar software e infraestrutura: 16-aprenda-monitorar-infra-e-codigo.md
@@ -26,8 +26,7 @@ nav:
   - message brokers: 22-message-brokers.md
   - graphQL: 23-graphQL.md
   - graph databases: 24-graph-dbs.md
-  - websockets: 25-websockets.md
-  - projetando para escalar: 26-projetando-para-escalar.md
+  - projetando para escalar: 25-projetando-para-escalar.md
   - sobre: about.md
 theme: 
   name: readthedocs

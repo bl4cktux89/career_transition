@@ -1,8 +1,4 @@
 <p align="center">
-  <img src=".src/devops.png" alt="banner" />
-</p>
-
-<p align="center">
   <h1><b>Transição de Carreira para DevOps/SRE</b></h1>
 </p>
 
@@ -49,7 +45,7 @@ O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 10. caching
 11. redes, segurança e protocolos
 12. testes
-13. conteinerização e virtualização
+13. infraestrutura
 14. aprenda infraestrutura como código
 15. CI/CD
 16. aprenda como monitorar software e infraestrutura
@@ -61,8 +57,7 @@ O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 22. message brokers
 23. graphQL
 24. graph databases
-25. websockets
-26. building for scale
+25. building for scale
 
 ---
 
