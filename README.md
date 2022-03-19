@@ -10,14 +10,9 @@
 
 ## conteúdo
 
-- [page](#page)
 - [sobre](#sobre)
 - [tecnologias](#tecnologias)
 - [como contibuir](#como-contribuir)
-
-<a id="page"></a>
-
-Clique <strong><a href="https://bl4cktux89.github.io/career_transition/">AQUI</a></strong> para acessar a página do projeto! <br/>
 
 <a id="sobre"></a>
 
