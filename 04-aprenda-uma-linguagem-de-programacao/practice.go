@@ -5,23 +5,49 @@ import (
 )
 
 // declaração do tipo
-type cliente struct {
+type pessoa struct {
 	nome      string
 	sobrenome string
-	fumante   bool
+	idade     int
+}
+
+type profissao struct {
+	pessoa
+	titulo  string
+	salario float64
 }
 
 func main() {
 	// declaração mais detalhada
-	cliente1 := cliente{
+	pessoa1 := pessoa{
 		nome:      "John",
 		sobrenome: "Textor",
-		fumante:   true,
+		idade:     78,
+	}
+
+	pessoa2 := profissao{
+		pessoa: pessoa{
+			nome:      "Vinícius",
+			sobrenome: "Silva",
+			idade:     32,
+		},
+		titulo:  "Analista de Redes",
+		salario: 4125.00,
 	}
 
 	// declaração mais concisa
-	cliente2 := cliente{"Joana", "Darc", false}
+	pessoa3 := pessoa{"Joana", "Darc", 56}
 
-	fmt.Println(cliente1)
-	fmt.Println(cliente2)
+	x := struct {
+		nome  string
+		idade int
+	}{
+		nome:  "Valdir",
+		idade: 56,
+	}
+
+	fmt.Println(pessoa1)
+	fmt.Println(pessoa2)
+	fmt.Println(pessoa3)
+	fmt.Println(x)
 }
