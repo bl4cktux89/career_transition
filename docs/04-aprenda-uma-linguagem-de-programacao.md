@@ -1,11 +1,6 @@
 # 4
 ---
-## referências
-
-Documentação da Linguagem: <a href="https://go.dev/doc/">GO</a></br>
-playlist da Ellen Korbes: <a href="https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg">Aprenda Go</a></br>
-playlist do Tiago Temporin: <a href="https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF">Aprenda Golang</a></br>
- 
+## introdução
 ---
 ## aprenda o básico
 ### sintaxe básica
@@ -88,6 +83,14 @@ playlist do Tiago Temporin: <a href="https://www.youtube.com/playlist?list=PLHPg
 ### gRPC-Go
 ### gRPC-gateway
 ### twirp
+---
+
+## referências
+
+Documentação da Linguagem: <a href="https://go.dev/doc/">GO</a></br>
+playlist da Ellen Korbes: <a href="https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg">Aprenda Go</a></br>
+playlist do Tiago Temporin: <a href="https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF">Aprenda Golang</a></br>
+
 ---
 package main | function main
 > *aqui você começa, aqui você termina*
