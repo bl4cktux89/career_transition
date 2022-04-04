@@ -12,6 +12,7 @@
 
 - [sobre](#sobre)
 - [tecnologias](#tecnologias)
+- [como utilizar](#como-utilizar)
 - [como contibuir](#como-contribuir)
 
 <a id="sobre"></a>
@@ -33,7 +34,15 @@ O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 
 - [linux](https://www.linux.org/)
 - [go](https://go.dev/)
+- [mkdocs](https://www.mkdocs.org/)
 
+<a id="como-utilizar"></a>
+
+## :check_mark: como utilizar
+
+- instale o MkDocs e configure de acordo com a documentação oficial
+- dentro da pasta raiz do projeto executar: `mkdocs serve`
+- o mkdocs vai gerar uma página web no localhost para que você acesse através do seu navegador
 
 <a id="como-contribuir"></a>
 
