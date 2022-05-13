@@ -18,15 +18,22 @@ O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 
 - [linux](https://www.linux.org/)
 - [go](https://go.dev/)
-- [mkdocs](https://www.mkdocs.org/) 
+- [mkdocs](https://www.mkdocs.org/)
+- [docker](https://www.docker.com/) 
 
 <a id="como-utilizar"></a>
 
 ## como utilizar
 
+### opção 1
 - instale o MkDocs e configure de acordo com a documentação oficial
 - dentro da pasta raiz do projeto executar: `mkdocs serve`
 - o mkdocs vai gerar uma página web no localhost para que você acesse através do seu navegador
+
+### opção 2
+- tenha o docker instalado
+- faça o build com o comando `docker build --no-cache -t <sua_tag>:<sua_versão> .`
+- execute o container através do comando `docker run -d -p 8080:80 <sua_tag>:<sua_versão>` 
 
 <a id="como-contribuir"></a>
 
