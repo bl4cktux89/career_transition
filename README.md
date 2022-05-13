@@ -35,6 +35,7 @@ O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 - [linux](https://www.linux.org/)
 - [go](https://go.dev/)
 - [mkdocs](https://www.mkdocs.org/)
+- [docker](https://www.docker.com/) 
 
 <a id="como-utilizar"></a>
 
