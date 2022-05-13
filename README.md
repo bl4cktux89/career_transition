@@ -39,7 +39,7 @@ O projeto está em desenvolvimento e utilizamos as seguintes tecnologias até o 
 
 <a id="como-utilizar"></a>
 
-## :check_mark: como utilizar
+## :heavy_check_mark: como utilizar
 
 ### opção 1
 - instale o MkDocs e configure de acordo com a documentação oficial
