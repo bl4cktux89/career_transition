@@ -1,4 +1,4 @@
-# 6
+# BANCOS DE DADOS RELACIONAIS
 ---
 ## postgreSQL
 Learn basic RDBMS terms and concepts

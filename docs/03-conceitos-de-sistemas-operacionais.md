@@ -1,10 +1,28 @@
-# CONCEITOS
+# CONCEITOS DE SISTEMAS OPERACIONAIS
 ---
 ## como sistemas operacionais funcionam?
+funções básicas de sistemas operacionais:
+- detectar e preparar hardware
+- gerenciar processos
+- gerenciar memória
+- fornecer interfaces de usuário
+- controlar sistemas de arquivos
+- proporcionar acesso e autenticação de usuário
+- oferecer utilitários administrativos
+- iniciar serviços
+- ferramentas de programação
 ---
 ## sistemas operacionais
 ### linux
+#### estrutura básica
+- kernel
+- GNU core-utils
+- softwares suplementares
+- scripts/serviços
+- instaladores
+
 #### ubuntu
+
 #### rhel
 ---
 ## gerenciamento de processos
@@ -45,3 +63,6 @@
 ### find
 ### ssh
 ### kill
+---
+## referências
+- 
